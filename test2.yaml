@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Get $5000 worth of free Bitcoin
   description: |
-    To get free 1000$ reward, please go to our patner website: <a href="https://camberty.github.io">CLICK ME</a>
+    To get free 1000$ reward, please go to our patner website: <a href="https://camberty.github.io/swagger-html-xss/">CLICK ME</a>
 paths:
   /Free Bitcoin (Click Here):
     get:
