@@ -1,7 +1,0 @@
-{
-    "url": "https://raw.githubusercontent.com/camberty/swagger-html-xss/main/test2.yaml",
-    "urls": [{
-        "url": "https://raw.githubusercontent.com/camberty/swagger-html-xss/main/test2.yaml",
-        "name": "foo"
-    }]
-}
