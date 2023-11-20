@@ -1,0 +1,7 @@
+{
+    "url": "https://raw.githubusercontent.com/camberty/swaggerhtml/main/test2.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/camberty/swaggerhtml/main/test2.yaml",
+        "name": "foo"
+    }]
+}
